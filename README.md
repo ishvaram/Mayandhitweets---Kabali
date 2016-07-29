@@ -7,13 +7,13 @@
 
 3)Install Twython via pip
 
-  $ pip install twython
+ <div class="highlight highlight-source-shell"><pre>$ pip install twython</pre></div>
 
 or, with easy_install
 
-  $ easy_install twython
+ <div class="highlight highlight-source-shell"><pre>$ easy_install twython</pre></div>
   
-  <div class="highlight highlight-source-shell"><pre>$ pip install twython</pre></div>
+  
 
 But,that's up to you.
 
